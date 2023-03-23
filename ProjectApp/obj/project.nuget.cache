@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yMJTkmdfgj70Jfxi3x/v+y6LxSWoXEcGtG74d/GRKXmuee51n4kvcYmnl9ueoNf0mitG2YKFj2YSTmIFo9qsMA==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\karmasis\\CaseStudy\\ProjectApp\\ProjectApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yigit\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Yigit\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
